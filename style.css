@@ -191,6 +191,8 @@ i {
 .about-description h2 {
   font-size: 38px;
   margin-bottom: 24px;
+  align-items: center;
+  justify-content: center;
 }
 .about-description p {
   margin-bottom: 14px;
