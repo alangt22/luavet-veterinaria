@@ -1,7 +1,7 @@
-![Logo do projeto](https://imgur.com/2I4nVhM.png)
+![Logo do projeto](https://imgur.com/nPzVk4A.png)
  Luavet - veterianaria
 
-Landing page para veterinaria!
+Landing page para vetrinaria!
 
 ## 🔥 Introdução
 
